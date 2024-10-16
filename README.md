@@ -1,11 +1,3 @@
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFBA.
-- 🌱 Aprendendo mais sobre Python, React Native.
-
-## Minhas Skills
-
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
