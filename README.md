@@ -1,23 +1,23 @@
-**Aplicações e dados**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=F79A02&repeat=false&width=435&lines=%F0%9F%98%8A+Ol%C3%A1%2C+eu+sou+Mac%C3%A9+Silveira+)](https://git.io/typing-svg)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<hr>
+Sobre mim:
+
+📚 Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://portal.ifba.edu.br/"><img src="https://img.shields.io/badge/Instituto%20Federal%20da%20Bahia%20(IFBA)-008000" height="23"></a> <br>
+👨‍💻 Ainda me descobrindo, porém possivelmente futuro Analista de Dados ou Programador Back-End <br><br>
+Aprendiz de:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+<hr>
 <br/>
 
 <a href="https://github.com/macesilveira" title="Perfil Macé">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macesilveira&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macesilveira&show_icons=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500" />
 </a>
 
-## Onde me encontrar
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silveira147/)](https://www.linkedin.com/in/matheus-silveira147/)
-[![Gmail Badge](https://img.shields.io/badge/-bahiacematheus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bahiacematheus@gmail.com)](mailto:bahiacematheus@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bahiacematheus@gmail.com)
