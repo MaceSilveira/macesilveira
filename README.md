@@ -20,4 +20,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silveira147/)](https://www.linkedin.com/in/matheus-silveira147/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bahiacematheus@gmail.com)](mailto:bahiacematheus@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bahiacematheus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bahiacematheus@gmail.com)](mailto:bahiacematheus@gmail.com)
