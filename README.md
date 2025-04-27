@@ -19,5 +19,5 @@ Aprendiz de:
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silveira147/)](https://www.linkedin.com/in/matheus-silveira147/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silveira147/)](https://www.linkedin.com/in/matheusc-silveira/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bahiacematheus@gmail.com)
