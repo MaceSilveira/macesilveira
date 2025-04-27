@@ -4,6 +4,7 @@
 Sobre mim:
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://portal.ifba.edu.br/"><img src="https://img.shields.io/badge/Instituto%20Federal%20da%20Bahia%20(IFBA)-008000" height="23"></a> <br>
+💻 Técnico em Desenvolvimento de Sistemas - SENAI
 👨‍💻 Ainda me descobrindo, porém possivelmente futuro Analista de Dados ou Programador Back-End <br><br>
 Aprendiz de:
 
